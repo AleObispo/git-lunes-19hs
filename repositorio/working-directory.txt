@@ -1,0 +1,20 @@
+working directory:
+	Es la carpeta don de se lleva a cabo el trabajao
+	de nuestros proyecto, generalmente utilizaremos las herramienras
+	de desarrollo elegedias por nosotros y muy rara vez la consola.
+
+COMANDOS BASICOS:
+
+cd (check directory)
+nos permite navegar entre los directoprios de la computadoras (carpetas) utilizando diferencters varienates.
+
+cd .. => vuelve al direcvtori anterior
+cd <folde> => abre el directorio especificado
+cd \ => abre el directorio raiz (c:)
+
+mkdir (make direcotry)
+	permite crear directorios con los nombres que especificamos despues de comando
+
+"mkdir <folder> <folde>"
+ ---------------------------------------------------------------
+git init crea
