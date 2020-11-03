@@ -1,0 +1,21 @@
+LOCAL REPOSITORY
+
+	Areas donde se almacenan los cambios en formato BLOB (Binary file object)
+	mediante una referencia identificada con el nombre HEAD, cada commit emitido genera un 
+	nuemero hexadecimal de 40 digitos conocidos con HASH
+
+
+COMANDOS 
+
+git commit genera un m ensaje para el almacenamiento con notas detalladas
+
+	git commit
+	git commit -m    => genera el commit con un mensaje
+	git commit --amend => genera un commit que reemplaza al ultimo
+	git commit --amend -m => genera un commit y un mensaje que reemplaza al ultimo commit
+
+
+git status => compara el working directory con el staging area
+
+git diff  => compara el working direoctory con el local repository
+
